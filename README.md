@@ -1,2 +1,2 @@
-# evolution_of_virulence
-modelling, evolution of virulence, population age structure 
+# Optimal virulence
+Simulating changes in optimal virulence in response to changing population age structure.
