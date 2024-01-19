@@ -7,11 +7,12 @@ for(i in 1:length(diseases2023)){
     diseases2023[[i]][[j]]$PrevNorm <- diseases2023[[i]][[j]]$Prevalence/mean(diseases2023[[i]][[j]]$Prevalence, na.rm = T)
     diseases2023[[i]][[j]]$DeathsNorm <- diseases2023[[i]][[j]]$Deaths/mean(diseases2023[[i]][[j]]$Deaths, na.rm = T)
     diseases2023[[i]][[j]]$ClearNorm <- diseases2023[[i]][[j]]$clearance/mean(diseases2023[[i]][[j]]$clearance, na.rm = T)
-    diseases2023[[i]][[j]]$Vulnerability <- diseases2023[[i]][[j]]$probdying/mean(diseases2023[[i]][[j]]$probdying, na.rm = T)
+    diseases2023[[i]][[j]]$Vulnerability <- diseases2023[[i]][[j]]$probdying/mean(s(diseases2023[[i]][[j]]$probdying))
     
     diseases2023[[i]][[j]] <-  diseases2023[[i]][[j]] %>% 
                                        left_join(demography_2017[[i]], by = "Age") %>%
-                                       left_join(baseline_mort[[i]], by = "Age") 
+                                       left_join(baseline_mort[[i]], by = "Age") %>%
+                                       left_join(demography_2050[[i]], by = "Age")
     
   }
 }

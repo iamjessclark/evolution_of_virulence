@@ -1,5 +1,14 @@
-require(tidyverse)
+
+
+require(tidyr)
+require(dplyr)
 require(lhs)
+require(ggsci)
+require(hablar)
+require(stringr)
+library(lhs)
+library(rrapply)
+require(ggh4x)
 source("datafunctions.R")
 source("mortality.R")
 source("demography.R")

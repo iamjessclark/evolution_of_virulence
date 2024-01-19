@@ -1,0 +1,23 @@
+Region,Country,Year,Age,Both Sexes Population,Male Population,Female Population,Percent Both Sexes,Percent Male,Percent Female,Sex Ratio
+Custom Region,Aggregated,2017,Total,42251896,21011051,21240845,100,100,100,98.9
+Custom Region,Aggregated,2017,0-4,3404499,1725260,1679239,8.1,8.2,7.9,102.7
+Custom Region,Aggregated,2017,05-Sep,3473147,1756862,1716285,8.2,8.4,8.1,102.4
+Custom Region,Aggregated,2017,Oct-14,3536497,1790912,1745585,8.4,8.5,8.2,102.6
+Custom Region,Aggregated,2017,15-19,3648078,1854167,1793911,8.6,8.8,8.4,103.4
+Custom Region,Aggregated,2017,20-24,3514166,1783976,1730190,8.3,8.5,8.1,103.1
+Custom Region,Aggregated,2017,25-29,3391519,1717917,1673602,8,8.2,7.9,102.6
+Custom Region,Aggregated,2017,30-34,3096968,1560856,1536112,7.3,7.4,7.2,101.6
+Custom Region,Aggregated,2017,35-39,2658564,1330369,1328195,6.3,6.3,6.3,100.2
+Custom Region,Aggregated,2017,40-44,2637686,1311953,1325733,6.2,6.2,6.2,99
+Custom Region,Aggregated,2017,45-49,2679322,1334127,1345195,6.3,6.3,6.3,99.2
+Custom Region,Aggregated,2017,50-54,2588446,1279758,1308688,6.1,6.1,6.2,97.8
+Custom Region,Aggregated,2017,55-59,2072256,1011309,1060947,4.9,4.8,5,95.3
+Custom Region,Aggregated,2017,60-64,1620907,778546,842361,3.8,3.7,4,92.4
+Custom Region,Aggregated,2017,65-69,1331137,630824,700313,3.2,3,3.3,90.1
+Custom Region,Aggregated,2017,70-74,1047114,485461,561653,2.5,2.3,2.6,86.4
+Custom Region,Aggregated,2017,75-79,747725,337232,410493,1.8,1.6,1.9,82.2
+Custom Region,Aggregated,2017,80-84,456784,194806,261978,1.1,0.9,1.2,74.4
+Custom Region,Aggregated,2017,85-89,231408,89686,141722,0.5,0.4,0.7,63.3
+Custom Region,Aggregated,2017,90-94,88323,29682,58641,0.2,0.1,0.3,50.6
+Custom Region,Aggregated,2017,95-99,23389,6480,16909,0.1,0,0.1,38.3
+Custom Region,Aggregated,2017,100+,3961,868,3093,0,0,0,28.1
